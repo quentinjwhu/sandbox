@@ -24,9 +24,16 @@ This configuration is optimized for DIRECT connections for the following major d
 | Guoyuanzq | | |
 
 ### Standalone Rules App / Website
-| Finance & Banking | Airlines & Travel | Social Networking |
+| Social Networking | Entertainment |
+| :--- | :--- |
+| | DMM |
+
+### US Rules App / Website
+|Social Networking | Entertainment | Tech & Internet Services |
 | :--- | :--- | :--- |
-| | | |
+| Steam | Netflix | Apple |
+| | Disney | Microsoft |
+| | TikTok | Amazon |
 
 ## Disclaimer
 
