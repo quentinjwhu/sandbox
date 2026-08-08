@@ -10,18 +10,27 @@
 This configuration is optimized for DIRECT connections for the following major domestic applications and websites:
 
 ### Direct Rules App / Website
-| Finance & Banking | Airlines & Travel | Government & Lifestyle Services |
-| :--- | :--- | :--- |
-| CMB |  AirChina | Zheliban |
-| SPDB | China Eastern Airlines | Suishenban |
-| CZB | China Southern Airlines | Momo |
-| BOCOM | Juneyao Air | weibo |
-| BOC | Loong Air | Heybox |
-| UnionPay | | Keep |
-| CMS | | 100me |
-| 10jqka | | |
-| Dongwuzq | | |
-| Guoyuanzq | | |
+| Finance & Banking | Airlines & Travel | Government & Lifestyle Services | Entertainment |
+| :--- | :--- | :--- | :--- |
+| CMB |  AirChina | Zheliban | Bilibili |
+| SPDB | China Eastern Airlines | Suishenban | Douyin|
+| CZB | China Southern Airlines | Momo | Douyu |
+| BOCOM | Juneyao Air | weibo | NetEase Music|
+| BOC | Loong Air | Heybox | Youku|
+| UnionPay | | Keep | iQIYI|
+| CMS | | 100me | Tencent Video |
+| 10jqka | | 12306 | |
+| Dongwuzq | | China Mobile | |
+| Guoyuanzq | | China Unicom | |
+| AliPay | | China Telecom | |
+| | | DIDI | |
+| | | Gaode | |
+| | | JD | |
+| | | Meituan | |
+| | | eleme | |
+| | | WeChat | |
+| | | Damai | |
+| | | Feizhu | |
 
 ### Standalone Rules App / Website
 | Social Networking | Entertainment |
