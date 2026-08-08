@@ -15,7 +15,7 @@ This configuration is optimized for DIRECT connections for the following major d
 | 10jqka | 12306  | 100me | Bilibili |
 | AliPay | AirChina | China Mobile | Douyin|
 | BOCOM | China Southern Airlines | China Telecom | Douyu |
-| BOC | China Eastern Airlines | China Unicom | |iQIYI
+| BOC | China Eastern Airlines | China Unicom | iQIYI |
 | CMS | DIDI | Damai |NetEase Music |
 | CMB | Gaode | eleme | Tencent Video |
 | CZB | Juneyao Air | Feizhu | Youku |
