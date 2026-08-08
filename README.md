@@ -35,8 +35,6 @@ This configuration is optimized for DIRECT connections for the following major d
 | | Disney | Microsoft |
 | | TikTok | Amazon |
 
-## Disclaimer
-
-- This rule set is for personal learning and communication purposes only.
-- The domains are collected from public networks, and 100% coverage of all subdomains is not guaranteed.
-- Please do not use these rules for any illegal purposes. Users assume all risks associated with their use.
+## ⚠️ Disclaimer
+- This repository is for personal use only. Please do not use it.
+- The rules are collected from public networks...
