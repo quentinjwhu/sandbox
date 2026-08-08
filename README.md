@@ -12,25 +12,22 @@ This configuration is optimized for DIRECT connections for the following major d
 ### Direct Rules App / Website
 | Finance & Banking | Airlines & Travel | Government & Lifestyle Services | Entertainment |
 | :--- | :--- | :--- | :--- |
-| CMB |  AirChina | Zheliban | Bilibili |
-| SPDB | China Eastern Airlines | Suishenban | Douyin|
-| CZB | China Southern Airlines | Momo | Douyu |
-| BOCOM | Juneyao Air | weibo | NetEase Music|
-| BOC | Loong Air | Heybox | Youku|
-| UnionPay | | Keep | iQIYI|
-| CMS | | 100me | Tencent Video |
-| 10jqka | | 12306 | |
-| Dongwuzq | | China Mobile | |
-| Guoyuanzq | | China Unicom | |
-| AliPay | | China Telecom | |
-| | | DIDI | |
-| | | Gaode | |
-| | | JD | |
+| 10jqka | 12306  | 100me | Bilibili |
+| AliPay | AirChina | China Mobile | Douyin|
+| BOCOM | China Southern Airlines | China Telecom | Douyu |
+| BOC | China Eastern Airlines | China Unicom | |iQIYI
+| CMS | DIDI | Damai |NetEase Music |
+| CMB | Juneyao Air | eleme | Tencent Video |
+| CZB | Gaode | Feizhu | Youku |
+| Dongwuzq | Loong Air | Heybox | |
+| Guoyuanzq | | JD | |
+| SPDB | | Keep | |
+| UnionPay | | momo | |
 | | | Meituan | |
-| | | eleme | |
+| | | Suishenban | |
+| | | Weibo | |
 | | | WeChat | |
-| | | Damai | |
-| | | Feizhu | |
+| | | Zheliban | |
 
 ### Standalone Rules App / Website
 | Social Networking | Entertainment |
@@ -40,9 +37,9 @@ This configuration is optimized for DIRECT connections for the following major d
 ### US Rules App / Website
 |Social Networking | Entertainment | Tech & Internet Services |
 | :--- | :--- | :--- |
-| Steam | Netflix | Apple |
-| | Disney | Microsoft |
-| | TikTok | Amazon |
+| Steam | Disney | Apple |
+| | Netflix | Amazon |
+| | TikTok | Microsoft |
 
 ## ⚠️ Disclaimer
 - This repository is for personal use only. Please do not use it.
