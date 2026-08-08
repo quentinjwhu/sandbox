@@ -17,8 +17,8 @@ This configuration is optimized for DIRECT connections for the following major d
 | BOCOM | China Southern Airlines | China Telecom | Douyu |
 | BOC | China Eastern Airlines | China Unicom | |iQIYI
 | CMS | DIDI | Damai |NetEase Music |
-| CMB | Juneyao Air | eleme | Tencent Video |
-| CZB | Gaode | Feizhu | Youku |
+| CMB | Gaode | eleme | Tencent Video |
+| CZB | Juneyao Air | Feizhu | Youku |
 | Dongwuzq | Loong Air | Heybox | |
 | Guoyuanzq | | JD | |
 | SPDB | | Keep | |
