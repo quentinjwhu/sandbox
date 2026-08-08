@@ -1,4 +1,4 @@
-# Direct Rules
+# Rules
 > A lightweight personal rule configuration designed to optimize direct connections for commonly used domestic apps and websites, reducing unnecessary proxy latency.
 
 ## Supported Clients
@@ -9,7 +9,7 @@
 
 This configuration is optimized for DIRECT connections for the following major domestic applications and websites:
 
-### App / Website
+### Direct Rules App / Website
 | Finance & Banking | Airlines & Travel | Government & Lifestyle Services |
 | :--- | :--- | :--- |
 | CMB |  AirChina | Zheliban |
@@ -22,6 +22,11 @@ This configuration is optimized for DIRECT connections for the following major d
 | 10jqka | | |
 | Dongwuzq | | |
 | Guoyuanzq | | |
+
+### Standalone Rules App / Website
+| Finance & Banking | Airlines & Travel | Social Networking |
+| :--- | :--- | :--- |
+| | | |
 
 ## Disclaimer
 
