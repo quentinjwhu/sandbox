@@ -1,0 +1,180 @@
+#10jqka
+DOMAIN-SUFFIX, 10jqka.com.cn
+DOMAIN-SUFFIX, 10jqka.com
+DOMAIN-SUFFIX, hexin.cn
+DOMAIN-SUFFIX, 51ifind.com
+DOMAIN-SUFFIX, 5ifund.com
+DOMAIN-SUFFIX, ijijin.com
+DOMAIN-SUFFIX, stockstar.com
+DOMAIN-SUFFIX, myhexin.com
+DOMAIN-SUFFIX, iwencai.com
+DOMAIN-SUFFIX, hxkba.com
+DOMAIN-SUFFIX, touzime.com
+DOMAIN-SUFFIX, thsi.cn
+DOMAIN-SUFFIX, 123ths.com
+
+#100me
+DOMAIN, www.100.me
+DOMAIN, www.ddfresh.net
+DOMAIN, maicai.api.ddxq.mobi
+DOMAIN-SUFFIX, 100.me
+DOMAIN-SUFFIX, ddfresh.net
+DOMAIN-SUFFIX, ddimg.mobi
+DOMAIN-SUFFIX, ddxq.mobi
+IP-CIDR, 119.29.29.90/80
+
+#Heybox
+DOMAIN-SUFFIX, heybox.com
+DOMAIN-SUFFIX, xiaoheihe.cn
+DOMAIN-SUFFIX, max-c.com
+
+#zlb
+DOMAIN, mgw.mpaas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX, zjzwfw.gov.cn
+
+#ssb
+DOMAIN, zwdt.sh.gov.cn
+DOMAIN, www.shanghai.gov.cn
+DOMAIN-SUFFIX, ssb.sh.gov.cn
+DOMAIN-SUFFIX, ssbsh.com
+DOMAIN-SUFFIX, ssgqt.net
+
+#momo
+DOMAIN-SUFFIX, immomo.com
+DOMAIN-SUFFIX, wemomo.com
+
+#AirChina
+DOMAIN-SUFFIX, airchina.com.cn
+DOMAIN-SUFFIX, airchinacargo.com
+
+#China Eastern Airlines
+DOMAIN-SUFFIX, ceair.com
+DOMAIN-SUFFIX, shanghai-air.com
+DOMAIN-SUFFIX, 95530.com
+
+#China Southern Airlines
+DOMAIN-SUFFIX, csair.com
+
+#Loong Air
+DOMAIN-SUFFIX, loongair.cn
+
+#Juneyao Air
+DOMAIN-SUFFIX, juneyaoair.com
+
+#Dongwuzq
+DOMAIN-SUFFIX, dwzq.com.cn
+
+#Guoyuanzq
+DOMAIN-SUFFIX, gyzq.com.cn
+
+#SPDB
+DOMAIN-SUFFIX, spdb.com.cn
+
+#czbank
+DOMAIN-SUFFIX, czbank.com
+
+#CMB
+DOMAIN-SUFFIX, 8008205555.cn
+DOMAIN-SUFFIX, 8008205555.com
+DOMAIN-SUFFIX, bbf.org.cn
+DOMAIN-SUFFIX, bjsbnet.com
+DOMAIN-SUFFIX, chndoi.cn
+DOMAIN-SUFFIX, chndoi.com.cn
+DOMAIN-SUFFIX, chndoi.net
+DOMAIN-SUFFIX, chndoi.org
+DOMAIN-SUFFIX, cignacmb-ipmi.com
+DOMAIN-SUFFIX, cignacmb.com
+DOMAIN-SUFFIX, cignacmbamc.com
+DOMAIN-SUFFIX, cmb-lrasing.com
+DOMAIN-SUFFIX, cmbchina.biz
+DOMAIN-SUFFIX, cmbchina.com
+DOMAIN-SUFFIX, cmbchina.cn
+DOMAIN-SUFFIX, cmbchina.com
+DOMAIN-SUFFIX, cmbi.com.hk
+DOMAIN-SUFFIX, cmbimg.cn
+DOMAIN-SUFFIX, cmbimg.com
+DOMAIN-SUFFIX, cmbt.cn
+DOMAIN-SUFFIX, cmbuat.com
+DOMAIN-SUFFIX, cmburl.cn
+DOMAIN-SUFFIX, cmbwinglungbank.com
+DOMAIN-SUFFIX, cmf.biz
+DOMAIN-SUFFIX, cmf.ltd
+DOMAIN-SUFFIX, cmfchina.com
+DOMAIN-SUFFIX, cmfunds.cn
+DOMAIN-SUFFIX, cnki.net
+DOMAIN-SUFFIX, cnkidoi.cn
+DOMAIN-SUFFIX, cnkidoi.com
+DOMAIN-SUFFIX, cnkidoi.net
+DOMAIN-SUFFIX, cnkidoi.org
+DOMAIN-SUFFIX, test-cignacmb.com
+DOMAIN-SUFFIX, wuxizazhi.cn
+DOMAIN-SUFFIX, wuxizazhi.com
+DOMAIN-SUFFIX, wuxizazhi.com.cn
+DOMAIN-SUFFIX, wuxizazhi.net
+DOMAIN-SUFFIX, wuxizazhi.net.cn
+
+#cms
+DOMAIN-SUFFIX, cmschina.com
+
+#BOCOM
+DOMAIN-SUFFIX, 95559.com.cn
+DOMAIN-SUFFIX, 95559.sh.cn
+DOMAIN-SUFFIX, bankcomm.com
+DOMAIN-SUFFIX, bankcomm.com.au
+DOMAIN-SUFFIX, bankcomm.com.mo
+DOMAIN-SUFFIX, bankcomm.com.tw
+
+#BOC
+DOMAIN-SUFFIX, bank-of-china.com
+DOMAIN-SUFFIX, bankofchina.com
+DOMAIN-SUFFIX, boc.cn
+DOMAIN-SUFFIX, bocamchina.com
+DOMAIN-SUFFIX, bocaviation.com
+DOMAIN-SUFFIX, boccfc.cc
+DOMAIN-SUFFIX, boccfc.cn
+DOMAIN-SUFFIX, bocfullertonbank.com
+DOMAIN-SUFFIX, bocgi.com
+DOMAIN-SUFFIX, bocgins.com
+DOMAIN-SUFFIX, bochk.com
+DOMAIN-SUFFIX, bochkonline.com
+DOMAIN-SUFFIX, bocichina.cn
+DOMAIN-SUFFIX, bocichina.com
+DOMAIN-SUFFIX, bocichina.com.cn
+DOMAIN-SUFFIX, bocifunds.cn
+DOMAIN-SUFFIX, bocifunds.com
+DOMAIN-SUFFIX, bocifunds.com.cn
+DOMAIN-SUFFIX, bocigroup.com
+DOMAIN-SUFFIX, bocim.com
+DOMAIN-SUFFIX, bocservices.com.cn
+DOMAIN-SUFFIX, ftcwifi.com
+
+#UnionPay
+DOMAIN-SUFFIX, 95516.com
+DOMAIN-SUFFIX, 95516.net
+DOMAIN-SUFFIX, airepay.net
+DOMAIN-SUFFIX, chinapay.cn
+DOMAIN-SUFFIX, chinapay.com
+DOMAIN-SUFFIX, chinapayhongkong.com
+DOMAIN-SUFFIX, chinaunionpay.com
+DOMAIN-SUFFIX, chinaunionpay.com.cn
+DOMAIN-SUFFIX, chinaunionpay.net
+DOMAIN-SUFFIX, cup.com.cn
+DOMAIN-SUFFIX, cup62.cn
+DOMAIN-SUFFIX, unionpay.com
+DOMAIN-SUFFIX, unionpay.net
+DOMAIN-SUFFIX, unionpayintl,com
+DOMAIN-SUFFIX, unionpayintl,cn
+DOMAIN-SUFFIX, unionpaysecure.com
+
+#weibo
+DOMAIN-SUFFIX, weibo.cn
+DOMAIN-SUFFIX, weibo.com
+DOMAIN-SUFFIX, weibocdn.com
+DOMAIN-KEYWORD, weibo
+
+#Keep
+DOMAIN-SUFFIX, calorietech.com
+DOMAIN-SUFFIX, gotokeep.com
+DOMAIN-SUFFIX, keep.com
+DOMAIN-SUFFIX, keep.com.cn
+DOMAIN-SUFFIX, keepcdn.com
