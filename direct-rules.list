@@ -67,9 +67,13 @@ DOMAIN-SUFFIX, juneyaoair.com
 
 #Dongwuzq
 DOMAIN-SUFFIX, dwzq.com.cn
+DOMAIN-SUFFIX, showcai.com.cn
+DOMAIN-SUFFIX, dwstock.com
 
 #Guoyuanzq
 DOMAIN-SUFFIX, gyzq.com.cn
+DOMAIN-SUFFIX, gyzqhz.upoem1.com
+DOMAIN-SUFFIX, apiserver.mdengta.com
 
 #SPDB
 DOMAIN-SUFFIX, spdb.com.cn
@@ -1111,3 +1115,16 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
+
+#Watsons
+DOMAIN-SUFFIX, watsons.com.cn
+DOMAIN-SUFFIX, dc.watsonsestore.com.cn
+DOMAIN-SUFFIX, mystore-gw.watsonsvip.com.cn
+
+#FamilyMart
+DOMAIN-SUFFIX, familymart.com.cn
+DOMAIN-SUFFIX, fmapp.chinafamilymart.com.cn
+
+#Freshippo
+DOMAIN-SUFFIX, freshippo.com
+DOMAIN-SUFFIX, shyhhema.com
