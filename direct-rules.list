@@ -33,11 +33,15 @@ DOMAIN, mgw.mpaas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX, zjzwfw.gov.cn
 
 #ssb
-DOMAIN, zwdt.sh.gov.cn
-DOMAIN, www.shanghai.gov.cn
+DOMAIN-SUFFIX, zwdt.sh.gov.cn
+DOMAIN-SUFFIX, shanghai.gov.cn
 DOMAIN-SUFFIX, ssb.sh.gov.cn
 DOMAIN-SUFFIX, ssbsh.com
 DOMAIN-SUFFIX, ssgqt.net
+DOMAIN-SUFFIX, cdn.eshimin.com
+DOMAIN-SUFFIX, shcdn.eshimin.com
+DOMAIN-SUFFIX, api.eshimin.com
+DOMAIN-SUFFIX, apps.eshimin.com
 
 #momo
 DOMAIN-SUFFIX, immomo.com
