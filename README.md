@@ -19,14 +19,17 @@ This configuration is optimized for DIRECT connections for the following major d
 | CMS | DIDI | Damai |NetEase Music |
 | CMB | Gaode | eleme | Tencent Video |
 | CZB | Juneyao Air | Feizhu | Youku |
-| Dongwuzq | Loong Air | Heybox | |
-| Guoyuanzq | | JD | |
-| SPDB | | Keep | |
-| UnionPay | | momo | |
+| Dongwuzq | Loong Air | Freshippo | |
+| Guoyuanzq | | FamilyMart | |
+| SPDB | | Heybox | |
+| UnionPay | | JD | |
+| | | Keep | |
+| | | momo | |
 | | | Meituan | |
 | | | Suishenban | |
 | | | Weibo | |
 | | | WeChat | |
+| | | Watsons | |
 | | | Zheliban | |
 
 ### Standalone Rules App / Website
