@@ -14,9 +14,9 @@ This configuration is optimized for DIRECT connections for the following major d
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 10jqka | 12306  | 100me | Bilibili | Heybox | China Mobile |
 | AliPay | AirChina | Damai | Douyin| WeChat | China Telecom |
-| BOCOM | China Southern Airlines | eleme | Douyu | momo | China Unicom |
-| BOC | China Eastern Airlines | Feizhu | iQIYI | Weibo | Suishenban |
-| CMS | DIDI | Freshippo |NetEase Music |  | Zheliban |
+| BOCOM | China Southern Airlines | eleme | Douyu | Weibo | China Unicom |
+| BOC | China Eastern Airlines | Feizhu | iQIYI | momo | Suishenban |
+| CMS | DIDI | Freshippo |NetEase Music | | Zheliban |
 | CMB | Gaode | FamilyMart | Tencent Video | | |
 | CZB | Juneyao Air | JD | Youku | | | |
 | Dongwuzq | Loong Air | Keep | | | |
