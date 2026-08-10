@@ -10,20 +10,19 @@
 This configuration is optimized for DIRECT connections for the following major domestic applications and websites:
 
 ### Direct Rules App / Website
-| Finance & Banking | Airlines & Travel | Government & Lifestyle Services | Entertainment | Food & Drink |
-| :--- | :--- | :--- | :--- | :--- |
-| 10jqka | 12306  | China Mobile | Bilibili | 100me |
-| AliPay | AirChina | China Telecom | Douyin| eleme |
-| BOCOM | China Southern Airlines | China Unicom | Douyu | Freshippo |
-| BOC | China Eastern Airlines | Damai | iQIYI | FamilyMart |
-| CMS | DIDI | Heybox |NetEase Music | Luckin Coffee |
-| CMB | Gaode | JD | Tencent Video | Meituan |
-| CZB | Juneyao Air | Keep | Youku | Watsons |
-| Dongwuzq | Loong Air | momo | | |
-| Guoyuanzq | Feizhu | Suishenban | | |
-| SPDB | | Weibo | | |
-| UnionPay | | WeChat | | |
-| | | Zheliban | | |
+| Finance & Banking | Airlines & Travel | Lifestyle | Entertainment | Social Networking | Other |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 10jqka | 12306  | 100me | Bilibili | Heybox | China Mobile |
+| AliPay | AirChina | Damai | Douyin| WeChat | China Telecom |
+| BOCOM | China Southern Airlines | eleme | Douyu | momo | China Unicom |
+| BOC | China Eastern Airlines | Feizhu | iQIYI | Weibo | Suishenban |
+| CMS | DIDI | Freshippo |NetEase Music |  | Zheliban |
+| CMB | Gaode | FamilyMart | Tencent Video | | |
+| CZB | Juneyao Air | JD | Youku | | | |
+| Dongwuzq | Loong Air | Keep | | | |
+| Guoyuanzq | | Luckin Coffee | | | |
+| SPDB | | Meituan | | | |
+| UnionPay | | Watsons | | | |
 
 ### Standalone Rules App / Website
 | Social Networking | Entertainment |
@@ -31,7 +30,7 @@ This configuration is optimized for DIRECT connections for the following major d
 | | DMM |
 
 ### US Rules App / Website
-|Social Networking | Entertainment | Tech & Internet Services |
+| Social Networking | Entertainment | Tech & Internet Services |
 | :--- | :--- | :--- |
 | Steam | Disney | Apple |
 | | Netflix | Amazon |
