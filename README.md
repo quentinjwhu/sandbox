@@ -12,13 +12,13 @@ This configuration is optimized for DIRECT connections for the following major d
 ### Direct Rules App / Website
 | Finance | Travel | Lifestyle | Entertainment | Social Networking | Other |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 10jqka | 12306  | 100me | Bilibili | momo | China Mobile |
-| AliPay | AirChina | Damai | Douyin| Heybox | China Telecom |
+| 10jqka | 12306  | 100me | Bilibili | Heybox | China Mobile |
+| AliPay | AirChina | Damai | Douyin| momo | China Telecom |
 | BOCOM | China Southern Airlines | eleme | Douyu | QQ | China Unicom |
 | BOC | China Eastern Airlines | Freshippo | iQIYI | WeChat |  Deepseek|
 | CMS | DIDI | FamilyMart |NetEase Music | Weibo | Doubao |
 | CMB | Feizhu | JD | Tencent Video | | Qwen |
-| CZB | Gaode | Keep | Youku | | | Suishenban |
+| CZB | Gaode | Keep | Youku | | Suishenban |
 | Dongwuzq | Juneyao Air | Luckin Coffee | | | Zheliban |
 | Guoyuanzq | Loong Air | Lawson | | | |
 | SPDB | | Meituan | | | |
