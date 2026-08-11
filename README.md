@@ -20,14 +20,16 @@ This configuration is optimized for DIRECT connections for the following major d
 | CMB | Feizhu | JD | Tencent Video | | Qwen |
 | CZB | Gaode | Keep | Youku | | Suishenban |
 | Dongwuzq | Juneyao Air | Luckin Coffee | | | Zheliban |
-| Guoyuanzq | Loong Air | Lawson | | | |
-| SPDB | | Meituan | | | |
+| Fengshouhulian | Loong Air | Lawson | | | |
+| Guoyuanzq | | Meituan | | | |
+| SPDB | | Watsons | | | |
 | UnionPay | | Watsons | | | |
 
-### Standalone Rules App / Website
+### Standalone Rules (JP) App / Website
 | Social Networking | Entertainment |
 | :--- | :--- |
-| | DMM |
+| Myfans | DMM |
+| | FC2 |
 
 ### US Rules App / Website
 | Social Networking | Entertainment | Tech & Internet Services |
