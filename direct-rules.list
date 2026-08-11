@@ -21,6 +21,11 @@ DOMAIN-SUFFIX, 100.me
 DOMAIN-SUFFIX, ddfresh.net
 DOMAIN-SUFFIX, ddimg.mobi
 DOMAIN-SUFFIX, ddxq.mobi
+DOMAIN-SUFFIX, ddmk.com
+DOMAIN-SUFFIX, ddmk.net
+DOMAIN-SUFFIX, 100.me
+DOMAIN-SUFFIX, ddmkimg.com
+DOMAIN-SUFFIX, dingdongmaicai.com
 IP-CIDR, 119.29.29.90/80
 
 #Heybox
@@ -1133,3 +1138,49 @@ DOMAIN-SUFFIX, shyhhema.com
 DOMAIN-SUFFIX, luckincoffee.com
 DOMAIN-SUFFIX, lkcoffee.com
 DOMAIN-SUFFIX, luckincoffeecdn.com
+
+#QQ
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, tencent.com
+DOMAIN-SUFFIX, gtimg.com
+DOMAIN-SUFFIX, qpic.cn
+DOMAIN-SUFFIX, qlogo.cn
+DOMAIN-SUFFIX, idqqimg.com
+DOMAIN-SUFFIX, imqq.com
+DOMAIN-SUFFIX, myapp.com
+IP-CIDR, 101.32.104.0/21
+IP-CIDR, 101.32.118.0/23
+IP-CIDR, 101.32.133.0/24
+IP-CIDR, 101.33.110.0/23
+IP-CIDR, 101.33.112.0/22
+IP-CIDR, 119.28.0.0/15
+IP-CIDR, 129.226.0.0/16
+IP-CIDR, 183.3.0.0/16
+IP-CIDR, 183.6.0.0/15
+IP-CIDR, 183.232.0.0/15
+IP-CIDR, 203.205.0.0/16
+
+#Doubao
+DOMAIN-SUFFIX, doubao.com
+DOMAIN-SUFFIX, volces.com
+DOMAIN-SUFFIX, volcengine.com
+DOMAIN-KEYWORD, doubao
+
+#Qwen
+DOMAIN-SUFFIX, tongyi.aliyun.com
+DOMAIN-SUFFIX, tongyi.ai
+DOMAIN-SUFFIX, dashscope.aliyuncs.com
+DOMAIN-KEYWORD, tongyi
+DOMAIN-KEYWORD, qianwen
+
+#DeepSeek
+DOMAIN-SUFFIX, deepseek.com
+
+#Lawson
+DOMAIN, umini.shujupie.com
+DOMAIN-SUFFIX, yorentown.com
+DOMAIN-SUFFIX, chinalawson.com.cn
+
+#Fengshouhulian
+DOMAIN-SUFFIX, zj96596.com
+DOMAIN-SUFFIX, zztfly.com
