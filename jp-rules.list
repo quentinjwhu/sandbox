@@ -30,3 +30,11 @@ DOMAIN-SUFFIX, shinobi.jp
 DOMAIN-SUFFIX, wheel-soft.com
 IP-CIDR, 125.6.189.7/32,no-resolve
 IP-CIDR, 203.104.209.7/32,no-resolve
+
+#myfans
+DOMAIN-SUFFIX, myfans.com
+DOMAIN-SUFFIX, tokuneko.jp
+DOMAIN-SUFFIX, clarity.ms
+
+#FC2
+DOMAIN-SUFFIX, fc2.com
