@@ -10,17 +10,17 @@
 This configuration is optimized for DIRECT connections for the following major domestic applications and websites:
 
 ### Direct Rules App / Website
-| Finance & Banking | Airlines & Travel | Lifestyle | Entertainment | Social Networking | Other |
+| Finance | Travel | Lifestyle | Entertainment | Social Networking | Other |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 10jqka | 12306  | 100me | Bilibili | Heybox | China Mobile |
-| AliPay | AirChina | Damai | Douyin| momo | China Telecom |
-| BOCOM | China Southern Airlines | eleme | Douyu | Weibo | China Unicom |
-| BOC | China Eastern Airlines | Feizhu | iQIYI | WeChat | Suishenban |
-| CMS | DIDI | Freshippo |NetEase Music | | Zheliban |
-| CMB | Gaode | FamilyMart | Tencent Video | | |
-| CZB | Juneyao Air | JD | Youku | | | |
-| Dongwuzq | Loong Air | Keep | | | |
-| Guoyuanzq | | Luckin Coffee | | | |
+| 10jqka | 12306  | 100me | Bilibili | eleme | China Mobile |
+| AliPay | AirChina | Damai | Douyin| Heybox | China Telecom |
+| BOCOM | China Southern Airlines | momo | Douyu | QQ | China Unicom |
+| BOC | China Eastern Airlines | Freshippo | iQIYI | WeChat |  Deepseek|
+| CMS | DIDI | FamilyMart |NetEase Music | Weibo | Doubao |
+| CMB | Feizhu | JD | Tencent Video | | Qwen |
+| CZB | Gaode | Keep | Youku | | | Suishenban |
+| Dongwuzq | Juneyao Air | Luckin Coffee | | | Zheliban |
+| Guoyuanzq | Loong Air | Lawson | | | |
 | SPDB | | Meituan | | | |
 | UnionPay | | Watsons | | | |
 
