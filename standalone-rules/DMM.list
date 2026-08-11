@@ -1,11 +1,20 @@
 #DMM
 
+DOMAIN, tck.lmadps.jp
+DOMAIN, eb2.3lift.com
+DOMAIN, sync.bidence.net
+DOMAIN, cm.mman.kr
+DOMAIN, dsum-sec.casalemedia.com
+DOMAIN, tg.socdm.com
 DOMAIN-SUFFIX, akabeesoft2.com
 DOMAIN-SUFFIX, akabeesoft3.com
 DOMAIN-SUFFIX, akatsukiworks.com
 DOMAIN-SUFFIX, alicesoft.com
 DOMAIN-SUFFIX, api-p.videomarket.jp
+DOMAIN-SUFFIX, adnxs.com
+DOMAIN-SUFFIX, bance.jp
 DOMAIN-SUFFIX, cosmiccute.com
+DOMAIN-SUFFIX, creativecdn.com
 DOMAIN-SUFFIX, ddo.jp
 DOMAIN-SUFFIX, dmm-extension.com
 DOMAIN-SUFFIX, dmm.co.jp
@@ -17,6 +26,7 @@ DOMAIN-SUFFIX, hibiki-site.com
 DOMAIN-SUFFIX, minori.ph
 DOMAIN-SUFFIX, navismithapis-cdn.com
 DOMAIN-SUFFIX, tenco.cc
+DOMAIN-SUFFIX, shinobi.jp
 DOMAIN-SUFFIX, wheel-soft.com
 IP-CIDR, 125.6.189.7/32,no-resolve
 IP-CIDR, 203.104.209.7/32,no-resolve
