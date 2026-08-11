@@ -15,15 +15,17 @@ This configuration is optimized for DIRECT connections for the following major d
 | 10jqka | 12306  | 100me | Bilibili | Heybox | China Mobile |
 | AliPay | AirChina | Damai | Douyin| momo | China Telecom |
 | BOCOM | China Southern Airlines | eleme | Douyu | QQ | China Unicom |
-| BOC | China Eastern Airlines | Freshippo | iQIYI | WeChat |  Deepseek|
-| CMS | DIDI | FamilyMart |NetEase Music | Weibo | Doubao |
-| CMB | Feizhu | JD | Tencent Video | | Qwen |
-| CZB | Gaode | Keep | Youku | | Suishenban |
-| Dongwuzq | Juneyao Air | Luckin Coffee | | | Zheliban |
-| Fengshouhulian | Loong Air | Lawson | | | |
-| Guoyuanzq | | Meituan | | | |
-| SPDB | | Watsons | | | |
-| UnionPay | | Watsons | | | |
+| BOC | China Eastern Airlines | Freshippo | iQIYI | Perfect World | DJI |
+| CMS | DIDI | FamilyMart |NetEase Music | Taqu | Deepseek |
+| CMB | Feizhu | JD | Tencent Video | WeChat | Doubao |
+| CZB | Gaode | Keep | Youku | Weibo | ECOSteam |
+| Dongwuzq | Juneyao Air | Luckin Coffee | | | FanqieNovel |
+| Fengshouhulian | Loong Air | Lawson | | | iReader |
+| Guoyuanzq | | Meituan | | | Qwen |
+| SPDB | | Pinduoduo | | | SevenCat |
+| UnionPay | | Watsons | | | Suishenban |
+| | | | | | youpin898 |
+| | | | | | Zheliban |
 
 ### Standalone Rules (JP) App / Website
 | Social Networking | Entertainment |
