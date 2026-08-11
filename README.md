@@ -27,7 +27,7 @@ This configuration is optimized for DIRECT connections for the following major d
 | | | | | | youpin898 |
 | | | | | | Zheliban |
 
-### Standalone Rules (JP) App / Website
+### JP Rules App / Website
 | Social Networking | Entertainment |
 | :--- | :--- |
 | Myfans | DMM |
