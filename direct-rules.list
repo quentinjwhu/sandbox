@@ -1243,3 +1243,16 @@ DOMAIN-SUFFIX, pinduoduo.com
 DOMAIN-SUFFIX, yangkeduo.com
 DOMAIN-SUFFIX, pddpic.com
 DOMAIN-SUFFIX, pddug.com
+
+#JPMorgan CN
+DOMAIN-SUFFIX, cifm.com
+DOMAIN-SUFFIX, cifm.comnull
+DOMAIN-SUFFIX, jpush.cn
+
+#Caixin
+DOMAIN-SUFFIX, caixin.com
+DOMAIN-KEYWORD, caixin
+
+#Finance News
+DOMAIN-SUFFIX, awtmt.com
+DOMAIN-SUFFIX, wscn.net
