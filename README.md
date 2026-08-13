@@ -24,8 +24,9 @@ This configuration is optimized for DIRECT connections for the following major d
 | Guoyuanzq | | Meituan | | | Qwen |
 | SPDB | | Pinduoduo | | | SevenCat |
 | UnionPay | | Watsons | | | Suishenban |
-| | | | | | youpin898 |
-| | | | | | Zheliban |
+| JPMorgan(CN) | | | | | youpin898 |
+| Caixin | | | | | Zheliban |
+| Finance News | | | | | |
 
 ### JP Rules App / Website
 | Social Networking | Entertainment |
@@ -34,11 +35,11 @@ This configuration is optimized for DIRECT connections for the following major d
 | | FC2 |
 
 ### US Rules App / Website
-| Social Networking | Entertainment | Tech & Internet Services |
-| :--- | :--- | :--- |
-| Steam | Disney | Apple |
-| | Netflix | Amazon |
-| | TikTok | Microsoft |
+| Finance | Social Networking | Entertainment | Tech & Internet Services |
+| :--- | :--- | :--- | :--- |
+| JPMorgan | Steam | Disney | Apple |
+| | | Netflix | Amazon |
+| | | TikTok | Microsoft |
 
 ## ⚠️ Disclaimer
 - This repository is for personal use only. Please do not use it.
