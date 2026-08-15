@@ -1125,6 +1125,7 @@ IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 DOMAIN-SUFFIX, watsons.com.cn
 DOMAIN-SUFFIX, dc.watsonsestore.com.cn
 DOMAIN-SUFFIX, mystore-gw.watsonsvip.com.cn
+DOMAIN-SUFFIX, aax6.cn
 
 #FamilyMart
 DOMAIN-SUFFIX, familymart.com.cn
