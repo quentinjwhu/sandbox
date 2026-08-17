@@ -27,6 +27,7 @@ This configuration is optimized for DIRECT connections for the following major d
 | JPMorgan(CN) | | | | | youpin898 |
 | Caixin | | | | | Zheliban |
 | Finance News | | | | | |
+| Yangjibao | | | | | |
 
 ### JP Rules App / Website
 | Social Networking | Entertainment |
