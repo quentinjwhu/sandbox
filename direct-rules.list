@@ -1257,3 +1257,7 @@ DOMAIN-KEYWORD, caixin
 #Finance News
 DOMAIN-SUFFIX, awtmt.com
 DOMAIN-SUFFIX, wscn.net
+
+#Yangjibao
+DOMAIN-SUFFIX, yangjibao.com
+DOMAIN-KEYWORD, yangjibao
