@@ -9,7 +9,7 @@
 
 This configuration is optimized for DIRECT connections for the following major domestic applications and websites:
 
-### Direct Rules App / Website
+### CN Rules App / Website
 | Finance | Travel | Lifestyle | Entertainment | Social Networking | Other |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 10jqka | 12306  | 100me | Bilibili | Heybox | China Mobile |
