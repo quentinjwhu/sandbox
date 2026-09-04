@@ -7,6 +7,7 @@ DOMAIN-SUFFIX, 5ifund.com
 DOMAIN-SUFFIX, ijijin.com
 DOMAIN-SUFFIX, stockstar.com
 DOMAIN-SUFFIX, myhexin.com
+DOMAIN-SUFFIX, myhithink.com
 DOMAIN-SUFFIX, iwencai.com
 DOMAIN-SUFFIX, hxkba.com
 DOMAIN-SUFFIX, touzime.com
@@ -49,8 +50,11 @@ DOMAIN-SUFFIX, api.eshimin.com
 DOMAIN-SUFFIX, apps.eshimin.com
 
 #momo
+DOMAIN, app-monitor-cn.doki.ren
 DOMAIN-SUFFIX, immomo.com
 DOMAIN-SUFFIX, wemomo.com
+DOMAIN-SUFFIX, momocdn.com
+DOMAIN-SUFFIX, hellogroup.com
 
 #AirChina
 DOMAIN-SUFFIX, airchina.com.cn
@@ -82,6 +86,7 @@ DOMAIN-SUFFIX, apiserver.mdengta.com
 
 #SPDB
 DOMAIN-SUFFIX, spdb.com.cn
+DOMAIN-SUFFIX, spdbccc.com.cn
 
 #czbank
 DOMAIN-SUFFIX, czbank.com
@@ -231,6 +236,7 @@ DOMAIN-SUFFIX, alipayplus.com
 DOMAIN-SUFFIX, ifaa.org.cn
 DOMAIN-SUFFIX, luohanacademy.com
 DOMAIN-SUFFIX, sinopayment.com.cn
+DOMAIN-SUFFIX, aliyun.com
 
 #BliBili
 DOMAIN, 0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
@@ -397,6 +403,7 @@ DOMAIN-SUFFIX, mmarket6.com
 DOMAIN-SUFFIX, monternet.com
 DOMAIN-SUFFIX, warmchina121.com
 DOMAIN-SUFFIX, zdsdp.com
+DOMAIN-SUFFIX, online-cmcc.cn
 IP-CIDR, 117.161.2.5/32,no-resolve
 
 #China Telecom
@@ -926,6 +933,9 @@ DOMAIN-SUFFIX, wx.qq.com
 DOMAIN-SUFFIX, wxapp.tc.qq.com
 DOMAIN-SUFFIX, wxs.qq.com
 DOMAIN-SUFFIX, yun-hl.3g.qq.com
+DOMAIN-SUFFIX, wxqcloud.qq.com.cn
+DOMAIN-SUFFIX, tencent-cloud.net
+DOMAIN-SUFFIX, wxgateway.com
 USER-AGENT, MicroMessenger*
 USER-AGENT, WeChat*
 IP-ASN, 132203,no-resolve
@@ -1123,8 +1133,8 @@ IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 
 #Watsons
 DOMAIN-SUFFIX, watsons.com.cn
-DOMAIN-SUFFIX, dc.watsonsestore.com.cn
-DOMAIN-SUFFIX, mystore-gw.watsonsvip.com.cn
+DOMAIN-SUFFIX, watsonsestore.com.cn
+DOMAIN-SUFFIX, watsonsvip.com.cn
 DOMAIN-SUFFIX, aax6.cn
 
 #FamilyMart
@@ -1261,3 +1271,73 @@ DOMAIN-SUFFIX, wscn.net
 #Yangjibao
 DOMAIN-SUFFIX, yangjibao.com
 DOMAIN-KEYWORD, yangjibao
+
+#Walmart CN
+DOMAIN-SUFFIX, walmartmobile.cn
+
+#BestPay
+DOMAIN-SUFFIX, bestpay.cn
+DOMAIN-SUFFIX, bestpay.com.cn
+
+#KFC CN
+#DOMAIN-SUFFIX, kfc.com.cn
+#DOMAIN-SUFFIX, hwwt8.com
+#DOMAIN-SUFFIX, yumchina.com
+#DOMAIN-SUFFIX, kfcapp.cn
+
+#PizzaHut CN
+DOMAIN-SUFFIX, phdapp.cn
+DOMAIN-SUFFIX, pizzahut.com.cn
+
+#McDonald's CN
+DOMAIN-SUFFIX, mcdonalds.com.cn
+DOMAIN-SUFFIX, mcd.cn
+
+#Wenshendaka
+DOMAIN-SUFFIX, wenshendaka.com
+
+#Starbucks CN
+DOMAIN-SUFFIX, starbucks.com.cn
+
+#FamilyMart CN
+DOMAIN-SUFFIX, chinafamilymart.com.cn
+
+#CHAGEE
+DOMAIN-SUFFIX, chagee.com
+
+#MXBC
+DOMAIN-SUFFIX, mxbc.net
+DOMAIN-SUFFIX, mxbc.com
+
+#E-CNY
+DOMAIN-SUFFIX, pbcdci.cn
+
+#Laoxiangji
+DOMAIN-SUFFIX, lxjchina.com.cn
+
+#SAC
+DOMAIN-SUFFIX, sac.net.cn
+
+#IKEA CN
+DOMAIN-SUFFIX, ikea.cn
+
+#inm
+DOMAIN-SUFFIX, inm.cc
+
+#Zheshang Securities
+DOMAIN-SUFFIX, stocke.com.cn
+
+#Dominos CN
+DOMAIN-SUFFIX, dominos.com.cn
+
+#PopMart
+DOMAIN-SUFFIX, popmart.com.cn
+DOMAIN-SUFFIX, popchj.com
+DOMAIN-SUFFIX, paquapp.com
+DOMAIN-SUFFIX, shpopmart.com
+
+#ALDI CN
+DOMAIN-SUFFIX, aldi.com.cn
+
+#NHSA
+DOMAIN-SUFFIX, nhsa.gov.cn
