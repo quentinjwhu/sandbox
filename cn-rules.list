@@ -131,16 +131,18 @@ DOMAIN-SUFFIX, wuxizazhi.com.cn
 DOMAIN-SUFFIX, wuxizazhi.net
 DOMAIN-SUFFIX, wuxizazhi.net.cn
 
-#cms
+#CMS
 DOMAIN-SUFFIX, cmschina.com
 
 #BOCOM
 DOMAIN-SUFFIX, 95559.com.cn
 DOMAIN-SUFFIX, 95559.sh.cn
+DOMAIN-SUFFIX, bankcomm.cn
 DOMAIN-SUFFIX, bankcomm.com
 DOMAIN-SUFFIX, bankcomm.com.au
 DOMAIN-SUFFIX, bankcomm.com.mo
 DOMAIN-SUFFIX, bankcomm.com.tw
+DOMAIN-KEYWORD, bankcomm
 
 #BOC
 DOMAIN-SUFFIX, bank-of-china.com
