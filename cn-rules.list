@@ -1343,9 +1343,13 @@ DOMAIN-SUFFIX, aldi.com.cn
 DOMAIN-SUFFIX, nhsa.gov.cn
 
 #Alibaba
-DOMAIN-SUFFIX,alibaba
-DOMAIN-SUFFIX,taobao
-DOMAIN-SUFFIX,tmall
+DOMAIN-SUFFIX, alibaba
+DOMAIN-SUFFIX, taobao
+DOMAIN-SUFFIX, tmall
+DOMAIN-SUFFIX, alicdn.com
+DOMAIN-SUFFIX, aliapp.org
+DOMAIN-SUFFIX, alibaba.com
+DOMAIN-SUFFIX, hzshudian.com
 IP-CIDR,103.206.40.0/22,no-resolve
 IP-CIDR,103.38.56.0/22,no-resolve
 IP-CIDR,103.52.196.0/22,no-resolve
