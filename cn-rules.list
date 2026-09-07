@@ -1423,3 +1423,8 @@ DOMAIN-SUFFIX, gumingnc.com
 #Dairy Queen
 DOMAIN-SUFFIX, dairyqueen.com.cn
 DOMAIN-SUFFIX, hophing.cn
+
+#RedNote
+DOMAIN-SUFFIX, xiaohongshu.com
+DOMAIN-SUFFIX, xhslink.com
+DOMAIN-SUFFIX, xhscdn.com
