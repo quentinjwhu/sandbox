@@ -1139,7 +1139,7 @@ DOMAIN-SUFFIX, watsonsestore.com.cn
 DOMAIN-SUFFIX, watsonsvip.com.cn
 DOMAIN-SUFFIX, aax6.cn
 
-#FamilyMart
+#FamilyMart CN
 DOMAIN-SUFFIX, familymart.com.cn
 DOMAIN-SUFFIX, fmapp.chinafamilymart.com.cn
 
@@ -1196,7 +1196,7 @@ DOMAIN-KEYWORD, qianwen
 #DeepSeek
 DOMAIN-SUFFIX, deepseek.com
 
-#Lawson
+#Lawson CN
 DOMAIN, umini.shujupie.com
 DOMAIN-SUFFIX, yorentown.com
 DOMAIN-SUFFIX, chinalawson.com.cn
@@ -1243,7 +1243,7 @@ DOMAIN-SUFFIX, youpinimg.com
 DOMAIN-SUFFIX, ecosteam.cn
 DOMAIN-SUFFIX, cl2009.com
 
-#DJI（Mimo + Store）
+#DJI Mimo + Store
 DOMAIN-SUFFIX, dji.com
 DOMAIN-SUFFIX, djicdn.com
 DOMAIN-SUFFIX, djiservice.org
@@ -1306,6 +1306,7 @@ DOMAIN-SUFFIX, chinafamilymart.com.cn
 
 #CHAGEE
 DOMAIN-SUFFIX, chagee.com
+DOMAIN-SUFFIX, qmai.cn
 
 #MXBC
 DOMAIN-SUFFIX, mxbc.net
@@ -1415,3 +1416,10 @@ DOMAIN-KEYWORD, xiachufang
 
 #Burger King CN
 DOMAIN-SUFFIX, bkchina.cn
+
+#Goodme
+DOMAIN-SUFFIX, gumingnc.com
+
+#Dairy Queen
+DOMAIN-SUFFIX, dairyqueen.com.cn
+DOMAIN-SUFFIX, hophing.cn
