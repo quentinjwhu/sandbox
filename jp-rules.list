@@ -1,5 +1,4 @@
 #DMM
-
 DOMAIN, tck.lmadps.jp
 DOMAIN, eb2.3lift.com
 DOMAIN, sync.bidence.net
@@ -39,3 +38,6 @@ DOMAIN-SUFFIX, clarity.ms
 
 #FC2
 DOMAIN-SUFFIX, fc2.com
+
+#MIXCHANNEL
+DOMAIN-SUFFIX, mixch.tv
