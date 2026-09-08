@@ -37,6 +37,9 @@ DOMAIN-SUFFIX, max-c.com
 #zlb
 DOMAIN, mgw.mpaas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX, zjzwfw.gov.cn
+DOMAIN-SUFFIX, zj.gov.cn
+DOMAIN-SUFFIX, mohrss.gov.cn
+DOMAIN-SUFFIX, e-sscard.com
 
 #ssb
 DOMAIN-SUFFIX, zwdt.sh.gov.cn
@@ -48,6 +51,9 @@ DOMAIN-SUFFIX, cdn.eshimin.com
 DOMAIN-SUFFIX, shcdn.eshimin.com
 DOMAIN-SUFFIX, api.eshimin.com
 DOMAIN-SUFFIX, apps.eshimin.com
+DOMAIN-SUFFIX, eshimin.com
+DOMAIN-SUFFIX, cnzz.com
+DOMAIN-KEYWORD, appx
 
 #momo
 DOMAIN, app-monitor-cn.doki.ren
@@ -1346,9 +1352,10 @@ DOMAIN-SUFFIX, aldi.com.cn
 DOMAIN-SUFFIX, nhsa.gov.cn
 
 #Alibaba
-DOMAIN-SUFFIX, alibaba
-DOMAIN-SUFFIX, taobao
-DOMAIN-SUFFIX, tmall
+DOMAIN-KEYWORD, alibaba
+DOMAIN-KEYWORD, taobao
+DOMAIN-KEYWORD, tmall
+DOMAIN-SUFFIX, taobao.com
 DOMAIN-SUFFIX, alicdn.com
 DOMAIN-SUFFIX, aliapp.org
 DOMAIN-SUFFIX, alibaba.com
