@@ -1288,10 +1288,10 @@ DOMAIN-SUFFIX, bestpay.cn
 DOMAIN-SUFFIX, bestpay.com.cn
 
 #KFC CN
-#DOMAIN-SUFFIX, kfc.com.cn
-#DOMAIN-SUFFIX, hwwt8.com
-#DOMAIN-SUFFIX, yumchina.com
-#DOMAIN-SUFFIX, kfcapp.cn
+DOMAIN-SUFFIX, kfc.com.cn
+DOMAIN-SUFFIX, hwwt8.com
+DOMAIN-SUFFIX, yumchina.com
+DOMAIN-SUFFIX, kfcapp.cn
 
 #PizzaHut CN
 DOMAIN-SUFFIX, phdapp.cn
@@ -1430,6 +1430,7 @@ DOMAIN-SUFFIX, gumingnc.com
 #Dairy Queen
 DOMAIN-SUFFIX, dairyqueen.com.cn
 DOMAIN-SUFFIX, hophing.cn
+DOMAIN-SUFFIX, growingio.com
 
 #RedNote
 DOMAIN-SUFFIX, xiaohongshu.com
