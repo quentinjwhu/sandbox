@@ -1436,3 +1436,9 @@ DOMAIN-SUFFIX, growingio.com
 DOMAIN-SUFFIX, xiaohongshu.com
 DOMAIN-SUFFIX, xhslink.com
 DOMAIN-SUFFIX, xhscdn.com
+
+#GimyTV by Taiwan
+DOMAIN, vip.dytt-network.com
+DOMAIN-SUFFIX, gimyai.tw
+DOMAIN-SUFFIX, gimygi.my
+DOMAIN-SUFFIX, cartsy.website
