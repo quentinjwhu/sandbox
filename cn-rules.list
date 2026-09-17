@@ -1443,3 +1443,6 @@ DOMAIN, vip.dytt-network.com
 DOMAIN-SUFFIX, gimyai.tw
 DOMAIN-SUFFIX, gimygi.my
 DOMAIN-SUFFIX, cartsy.website
+
+#Subway CN
+DOMAIN-SUFFIX, subway.com.cn
