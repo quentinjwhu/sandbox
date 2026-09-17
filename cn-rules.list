@@ -93,6 +93,7 @@ DOMAIN-SUFFIX, apiserver.mdengta.com
 #SPDB
 DOMAIN-SUFFIX, spdb.com.cn
 DOMAIN-SUFFIX, spdbccc.com.cn
+DOMAIN-SUFFIX, spdbccc.cn
 
 #czbank
 DOMAIN-SUFFIX, czbank.com
